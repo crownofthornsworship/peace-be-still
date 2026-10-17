@@ -1,10 +1,14 @@
-# peace-be-still
+# Peace, Be Still 2.0
 
 [Play the game](https://crownofthornsworship.github.io/peace-be-still/)
 
-Migrated from the existing working game on October 3, 2026. Files in the repository root are the editable game source; assets/ contains existing artwork where applicable. GitHub Pages serves main / root. No build step is needed. The original hosted site was left unchanged.
+A free, browser-based Galilee sailing and exploration adventure centered on Mark 4:35–41. Ten authored voyages teach the helm, navigation, discovery, service, rescue, fog and storm preparation before a multi-stage retelling of Jesus calming the storm.
 
-## Next updates
+## Controls
 
-See [GAME_ROADMAP.md](GAME_ROADMAP.md) for sailing improvements, twelve distinct voyages, world animation, the storm finale, and release testing.
+- Keyboard: arrows or WASD; Space/Enter to interact; Escape to pause
+- Touch: four-button helm and contextual action button
+- Progress saves locally; narration can be toggled; no ads or purchases
+
+GitHub Pages serves `main` from the repository root with no build step.
 
